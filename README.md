@@ -1,18 +1,13 @@
 # &#x1F9EC; Skills
-## Technical Assessment Platform
-<a href="https://www.hackerrank.com/hicham_mrani">
-  <img align="center" src="https://marketinghr.wpengine.com/wp-content/uploads/2018/08/hackerrank_logo.png" />
-</a>
 
-_______________________________________________________________________________________________________________________________________________________________________
-## Languages
+### Languages
 - Python
 - SQL
 - JavaScript
 - TypeScript
 - HTML & CSS
 
-## Frameworks
+### Frameworks
 - Django
 - Angular
 
@@ -37,3 +32,4 @@ ________________________________________________________________________________
 # &#x1F4D6; Learning Projects
 
 Empty
+
