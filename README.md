@@ -30,3 +30,11 @@
 
 Empty
 
+_______________________________________________________________________________________________________________________________________________________________________
+
+#### &#x1F310; Social Network
+
+<a href="https://www.linkedin.com/in/hicham-mrani-69916b206/">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Hicham's Linkedin" />
+</a>
+
