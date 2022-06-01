@@ -10,19 +10,25 @@
 | Tools | |![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=flat&logo=anaconda&logoColor=white) ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=flat&logo=fontawesome&logoColor=white) ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white) | ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)
 
 # &#x1F4C8; GitHub Stats
-<a href="https://github.com/hicham-mrani/hicham-mrani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-mrani&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
 
+<p align="center">
+    <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-mrani&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&langs_count=5"         alt="Hicham's Top Languages" />
+  </a>
+  <a href="#">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hicham-mrani" alt="Hicham's Summary" />
+  </a>
+</p>
 
-<a href="https://github.com/hicham-mrani/hicham-mrani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hicham-mrani&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hicham's GitHub Stats" />
-</a>
-
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=hicham-mrani&show_icons=true&line_height=27&count_private=true&title_color=586e75&text_color=586e75&icon_color=586e75" alt="Hicham's GitHub Stats" />
+  </a>
+</p>
 
 # &#x1F680; Personal Projects
 <a href="https://github.com/hicham-mrani/Almanax_Scraper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hicham-mrani&repo=Almanax_Scraper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hicham-mrani&repo=Almanax_Scraper&title_color=586e75&text_color=586e75&icon_color=586e75" />
 </a>
 
 
