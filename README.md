@@ -43,4 +43,7 @@ ________________________________________________________________________________
 <a href="https://www.linkedin.com/in/hicham-mrani-69916b206/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Hicham's Linkedin" />
 </a>
+<a href="https://www.codingame.com/profile/6af6460fc3106882513f4b8b2e8d11500106294">
+  <img align="center" src="https://img.shields.io/badge/-CodinGame-F2BB13?style=flat&logo=CodinGame&logoColor=FFFFFF" alt="Hicham's Codingame" />
+</a>
 
