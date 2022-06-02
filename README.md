@@ -11,7 +11,7 @@
 
 # &#x1F4C8; GitHub Stats
 
-<p>
+<p align="center">
     <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-mrani&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&langs_count=5"         alt="Hicham's Top Languages" />
   </a>
