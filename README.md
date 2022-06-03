@@ -26,15 +26,12 @@
   </a>
 </p>
 
-# &#x1F680; Personal Projects
+# &#x1F4DA; Portfolio
+
 <a href="https://github.com/hicham-mrani/Almanax_Scraper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hicham-mrani&repo=Almanax_Scraper&title_color=586e75&text_color=586e75&icon_color=586e75" />
 </a>
 
-
-# &#x1F4D6; Learning Projects
-
-Empty
 
 _______________________________________________________________________________________________________________________________________________________________________
 
