@@ -3,7 +3,7 @@
 - &#x1F3AF; Technologies I am focusing and especially want to work with.
 - &#x1F4BC; Technologies I have already worked with and for some I keep working with it.
 - &#x1F393; Technologies I have worked with during my studies or discovered by myself **(I don't especially work with)**.
-- &#x1F440; Technologies I have seen and I have already lightly worked with.
+- &#x1F440; Technologies which I have already slightly worked  with.
 
 |  |   &#x1F3AF; |   &#x1F4BC; | &#x1F393; | &#x1F440;
 | --- | --- | --- | --- | --- |
