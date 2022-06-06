@@ -21,23 +21,22 @@
 
 <p align="center">
     <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-mrani&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&langs_count=5"         alt="Hicham's Top Languages" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hicham-mrani&theme=github"/>
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=hicham-mrani&show_icons=true&line_height=27&count_private=true&title_color=586e75&text_color=586e75&icon_color=586e75" alt="Hicham's GitHub Stats" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hicham-mrani&theme=github"/>
   </a>
 </p>
-
 <p align="center">
   <a href="#">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hicham-mrani" alt="Hicham's Summary" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hicham-mrani&theme=github"/>
   </a>
 </p>
 
 # &#x1F4DA; Portfolio
 
 <a href="https://github.com/hicham-mrani/Almanax_Scraper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hicham-mrani&repo=Almanax_Scraper&title_color=586e75&text_color=586e75&icon_color=586e75" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hicham-mrani&repo=Almanax_Scraper&title_color=586e75&text_color=586e75&icon_color=008000" />
 </a>
 
 
