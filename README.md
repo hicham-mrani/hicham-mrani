@@ -18,16 +18,26 @@
 # &#x1F4C8; GitHub Stats
 
 <p align="center">
-    <a href="#">
+  <a href="#">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hicham-mrani&theme=github"/>
+  </a>
+</p>
+                                                                                                                          
+<p align="center">
+   <a href="#">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hicham-mrani&theme=github"/>
   </a>
   <a href="#">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hicham-mrani&theme=github"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hicham-mrani&theme=github"/>
   </a>
 </p>
+                                                                                                                               
 <p align="center">
   <a href="#">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hicham-mrani&theme=github"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hicham-mrani&theme=github"/>
+  </a>
+  <a href="#">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hicham-mrani&theme=github"/>
   </a>
 </p>
 
