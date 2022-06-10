@@ -42,15 +42,14 @@
 </p>
 
 # &#x1F4DA; Portfolio
-
-<a href="https://github.com/hicham-mrani/Almanax_Scraper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hicham-mrani&repo=Almanax_Scraper&title_color=586e75&text_color=586e75&icon_color=008000" />
-</a>
-<a href="https://github.com/hicham-mrani/Speed-Dating-Experiment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hicham-mrani&repo=Speed-Dating-Experiment&title_color=586e75&text_color=586e75&icon_color=008000" />
-</a>
-
-_______________________________________________________________________________________________________________________________________________________________________
+<p align = "center">
+  <a href="https://github.com/hicham-mrani/Plan-Your-Trip-With-Kayak">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hicham-mrani&repo=Plan-Your-Trip-With-Kayak&title_color=586e75&text_color=586e75&icon_color=008000" />
+  </a>
+  <a href="https://github.com/hicham-mrani/Speed-Dating-Experiment">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hicham-mrani&repo=Speed-Dating-Experiment&title_color=586e75&text_color=586e75&icon_color=008000" />
+  </a>
+</p>
 
 #### &#x1F310; Social Network
 
@@ -60,4 +59,3 @@ ________________________________________________________________________________
 <a href="https://www.codingame.com/profile/6af6460fc3106882513f4b8b2e8d11500106294" target="_blank">
   <img align="center" src="https://img.shields.io/badge/CodinGame-F2BB13?style=flat&logo=CodinGame&logoColor=000000" alt="Hicham's Codingame" />
 </a>
-
