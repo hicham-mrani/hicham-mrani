@@ -60,5 +60,5 @@
   <img align="center" src="https://img.shields.io/badge/CodinGame-F2BB13?style=flat&logo=CodinGame&logoColor=000000" alt="Hicham's Codingame" />
 </a> --->
 <a href="https://www.hackerrank.com/shinaki" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white" alt="Hicham's HackerRank" />
+  <img align="center" src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white" alt="Hicham's HackerRank" />
 </a>
