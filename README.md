@@ -63,3 +63,6 @@
 <a href="https://www.hackerrank.com/shinaki" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white" alt="Hicham's HackerRank" />
 </a>
+<a href="https://www.kaggle.com/hmrani" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white" alt="Hicham's Kaggle" />
+</a>
