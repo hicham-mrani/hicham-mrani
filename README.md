@@ -50,6 +50,9 @@
   <a href="https://github.com/hicham-mrani/Speed-Dating-Experiment">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hicham-mrani&repo=Speed-Dating-Experiment&title_color=586e75&text_color=586e75&icon_color=008000" />
   </a>
+   <a href="https://github.com/hicham-mrani/Getaround">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hicham-mrani&repo=Getaround&title_color=586e75&text_color=586e75&icon_color=008000" />
+  </a>
 </p>
 
 #### &#x1F310; Social Network
