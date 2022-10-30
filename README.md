@@ -66,12 +66,3 @@
 <a href="https://www.linkedin.com/in/hicham-m-69916b206/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Hicham's Linkedin" />
 </a>
-<!---<a href="https://www.codingame.com/profile/6af6460fc3106882513f4b8b2e8d11500106294" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/CodinGame-F2BB13?style=flat&logo=CodinGame&logoColor=000000" alt="Hicham's Codingame" />
-</a> --->
-<a href="https://www.hackerrank.com/shinaki" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white" alt="Hicham's HackerRank" />
-</a>
-<a href="https://www.kaggle.com/hmrani" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white" alt="Hicham's Kaggle" />
-</a>
