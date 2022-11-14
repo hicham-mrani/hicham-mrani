@@ -2,7 +2,7 @@
 
 - &#x1F3AF; Technologies I am focusing and especially want to work with.
 - &#x1F4BC; Technologies  I have already worked with.
-- &#x1F393; Technologies I have seen.
+- &#x1F393; Technologies I have studied.
 
 |  |   &#x1F3AF; |   &#x1F4BC; | &#x1F393;
 | --- | --- | --- | --- |
