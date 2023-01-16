@@ -38,14 +38,6 @@
   </a>
 </p>
 
-# &#x1F4DA; Portfolio | Data Science
-<p align = "center">
-  
-  <a href="https://github.com/LHB-Group/Civil-Work-Bidding-And-Investment-Helper">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LHB-Group&repo=Civil-Work-Bidding-And-Investment-Helper&title_color=586e75&text_color=586e75&icon_color=008000" />
-  </a>
-    
-</p>
 
 #### &#x1F310; Social Network
 
