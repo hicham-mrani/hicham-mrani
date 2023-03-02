@@ -12,32 +12,6 @@
 | Cloud Provider | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) | ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=black)||
 | Pipeline Tools | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![Spark](https://img.shields.io/badge/Spark%20AR-FF5C83?style=flat&logo=SparkAR&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white) | ![DataBricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=Databricks&logoColor=white) |
 | Platform & Software |![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) ![QGIS](https://img.shields.io/badge/qgis-3.26_buenos_aires-93b023?&style=flat&logo=qgis&logoColor=white) | ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white) | 
-# &#x1F4C8; GitHub Stats
-
-<p align="center">
-  <a href="#">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hicham-mrani&theme=github"/>
-  </a>
-</p>
-                                                                                                                          
-<p align="center">
-   <a href="#">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hicham-mrani&theme=github"/>
-  </a>
-  <a href="#">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hicham-mrani&theme=github"/>
-  </a>
-</p>
-                                                                                                                               
-<p align="center">
-  <a href="#">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hicham-mrani&theme=github"/>
-  </a>
-  <a href="#">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hicham-mrani&theme=github"/>
-  </a>
-</p>
-
 
 #### &#x1F310; Social Network
 
