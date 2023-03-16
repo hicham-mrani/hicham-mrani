@@ -40,23 +40,30 @@
 
 <h3 align="left">Frameworks & Libraries</h3>
 <p align="left"> 
+ <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" height="40"/> </a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" height="40"/> </a>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://blog.scikit-learn.org/assets/images/scikit-learn-logo.png" alt="Sklearn" height="40"/> </a>
  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="40"/> </a>
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="Swagger" height="40"/> </a>
 </p>
 
-<h3 align="left">Databases & Cloud Services</h3>
+<h3 align="left">Data</h3>
 <p align="left"> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql" height="40"/> </a>
+ 
+ <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitMQ" height="40"/>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" height="40"/> </a>
+ 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" height="40"/> </a>
 </p>
 
 <h3 align="left">DevOps Automation Tools</h3>
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="40"/> </a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" height="40"/> </a>
 </p>
 
 <h3 align="left">Softwares</h3>
