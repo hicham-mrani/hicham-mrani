@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hicham MRANI</h1>
-<h3 align="center">A Passionate & Learner Software Engineer from France</h3>
+<h3 align="center">A Passionate & Learner in Software and Data Engineering from France</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/hicham-mrani-69916b206/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="hicham-mrani-69916b206" height="40"/></a>
 <a href="https://stackoverflow.com/users/21064666/hicham-mrani" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="21064666/hicham-mrani" height="40" /></a>
