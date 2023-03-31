@@ -54,6 +54,7 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql" height="40"/> </a>
  
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" height="40"/> </a>
+ <a href="https://autogis-site.readthedocs.io/en/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://autogis-site.readthedocs.io/en/latest/_static/autogis-logo_300x210px.svg" alt="GIS" height="40"/> </a>
 </p>
 
 <h3 align="left">DevOps Automation Tools</h3>
