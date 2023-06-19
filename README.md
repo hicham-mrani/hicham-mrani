@@ -21,6 +21,7 @@
 <h3 align="left">Languages</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" height="40"/></a>
+<a href="https://www.w3schools.com/java/default.asp" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" height="40"/></a>
 
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="typescript" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" height="40"/> </a>
