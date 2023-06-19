@@ -38,6 +38,7 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="Numpy" height="40"/> </a>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://blog.scikit-learn.org/assets/images/scikit-learn-logo.png" alt="Sklearn" height="40"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" height="40"/> </a>
+<a href="https://github.com/JaidedAI/EasyOCR" target="_blank" rel="noreferrer"> <img src="https://www.jaided.ai/static/img/svg_icon/EasyOCR_OSS3.svg" alt="easyocr" height="80"/> </a>
  
 <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" height="40"/> </a>
