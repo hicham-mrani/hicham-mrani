@@ -11,8 +11,7 @@
 
 <p align="left">
 
-🎯 **Unit tests**
- 
+<a href="https://docs.pytest.org/" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/pytest/images/1de287e9-ddb8-43ad-b7dd-b89b050d1f29.svg" alt="pytest" height="40"/></a>
 <a href="https://discordpy.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg" alt="discord" height="40"/></a>
  
  
