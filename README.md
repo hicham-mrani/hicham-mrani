@@ -44,6 +44,7 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" height="40"/> </a>
 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" height="40"/> </a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" height="40"/></a>
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="Swagger" height="40"/> </a>
 </p>
 
