@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hicham MRANI</h1>
 <h3 align="center">A Passionate and Learner in Software Engineering & Data Science from France</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/hicham-mrani-69916b206/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="hicham-mrani-69916b206" height="40"/></a>
-<a href="https://stackoverflow.com/users/21064666/hicham-mrani" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="21064666/hicham-mrani" height="40" /></a>
+<a href="https://www.linkedin.com/in/hicham-mrani-69916b206/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="hicham-mrani" height="40"/></a>
+<a href="https://stackoverflow.com/users/21064666/hicham-mrani" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="hicham-mrani" height="40" /></a>
+<a href="https://www.hackerrank.com/Shinaki" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/hackerrank/images/7f113bba-8436-47a5-9982-af0bc4c02a8e.svg" alt="hicham-mrani" height="40" /></a>
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hicham-mrani&margin-w=15&margin-h=15&theme=onedark&no-frame=true" alt="hicham-mrani" /></a></p>
