@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hicham MRANI</h1>
 <h3 align="center">A Passionate and Learner in Software Engineering & Data Science from France</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/hicham-mrani-69916b206/" target="https://www.linkedin.com/in/hicham-mrani-69916b206/"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="hicham-mrani" height="40"/></a>
-<a href="https://stackoverflow.com/users/21064666/hicham-mrani" target="https://stackoverflow.com/users/21064666/hicham-mrani"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="hicham-mrani" height="40" /></a>
-<a href="https://www.hackerrank.com/Shinaki" target="https://www.hackerrank.com/Shinaki"><img align="center" src="https://upload.vectorlogo.zone/logos/hackerrank/images/7f113bba-8436-47a5-9982-af0bc4c02a8e.svg" alt="hicham-mrani" height="40" /></a>
+<a href="https://www.linkedin.com/in/hicham-mrani-69916b206/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="hicham-mrani" height="40"/></a>
+<a href="https://stackoverflow.com/users/21064666/hicham-mrani" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="hicham-mrani" height="40" /></a>
+<a href="https://www.hackerrank.com/Shinaki" target="_blank"><img align="center" src="https://upload.vectorlogo.zone/logos/hackerrank/images/7f113bba-8436-47a5-9982-af0bc4c02a8e.svg" alt="hicham-mrani" height="40" /></a>
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hicham-mrani&margin-w=15&margin-h=15&theme=onedark&no-frame=true" alt="hicham-mrani" /></a></p>
