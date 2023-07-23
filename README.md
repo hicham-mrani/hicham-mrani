@@ -38,8 +38,10 @@
 <a href="https://github.com/JaidedAI/EasyOCR" target="_blank" rel="noreferrer"><img src="https://www.jaided.ai/static/img/svg_icon/EasyOCR_OSS3.svg" alt="easyocr" height="80"/></a>
  
 <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="40"/></a>
-<a href="https://scrapy.org/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/40d00cefb120a829517e503658aaf6c987d5f9cc6be5e2e35fb20bd63bdbceb5/68747470733a2f2f7363726170792e6f72672f696d672f7363726170796c6f676f2e706e67" alt="scrapy" height="40"/></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" height="40"/></a>
+<!---
+<a href="https://scrapy.org/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/40d00cefb120a829517e503658aaf6c987d5f9cc6be5e2e35fb20bd63bdbceb5/68747470733a2f2f7363726170792e6f72672f696d672f7363726170796c6f676f2e706e67" alt="scrapy" height="40"/></a>
+--->
 
 <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" height="40"/></a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" height="40"/></a>
