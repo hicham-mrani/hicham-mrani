@@ -3,7 +3,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/hicham-mrani-69916b206/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="hicham-mrani" height="40"/></a>
 <a href="https://stackoverflow.com/users/21064666/hicham-mrani" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="hicham-mrani" height="40" /></a>
-<a href="https://www.hackerrank.com/shinaki" target="_blank"><img align="center" src="https://upload.vectorlogo.zone/logos/hackerrank/images/7f113bba-8436-47a5-9982-af0bc4c02a8e.svg" alt="hicham-mrani" height="40" /></a>
+<a href="https://www.w3profile.com/Shinaki" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/512px-W3Schools_logo.svg.png?20210601004220" alt="hicham-mrani" height="40" /></a>
+<!---<a href="https://www.hackerrank.com/shinaki" target="_blank"><img align="center" src="https://upload.vectorlogo.zone/logos/hackerrank/images/7f113bba-8436-47a5-9982-af0bc4c02a8e.svg" alt="hicham-mrani" height="40" /></a>--->
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hicham-mrani&margin-w=15&margin-h=15&theme=onedark&no-frame=true" alt="hicham-mrani" /></a></p>
@@ -20,7 +21,7 @@
 <h3 align="left">Languages</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" height="40"/></a>
-<a href="https://www.w3schools.com/java/default.asp" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" height="40"/></a>
+<!---<a href="https://www.w3schools.com/java/default.asp" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" height="40"/></a>--->
 
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="typescript" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" height="40"/></a>
@@ -71,7 +72,7 @@
 <h3 align="left">Softwares</h3>
 <p align="left"> 
 <a href="https://www.qgis.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/qgis/qgis-ar21.svg" alt="QGIS" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" height="40"/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://cdn.cookielaw.org/logos/70564414-548a-4286-8ad7-04d95b172a08/e26443c0-68d1-47c8-b8fc-9bc765da2e95/3a159462-db70-43cf-a27d-f602a6baed44/pm-logo-horiz.png" alt="postman" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="Figma" height="40"/></a>
 <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg" alt="Gimp" height="40"/></a>
 
