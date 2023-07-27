@@ -33,6 +33,7 @@
 <h3 align="left">Frameworks & Libraries & SDKs & APIs</h3>
 <p align="left"> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/docs/_static/pandas.svg" alt="Pandas" height="40"/></a>
+<a href="https://geopandas.org/" target="_blank" rel="noreferrer"><img src="https://geopandas.org/en/stable/_static/geopandas_logo_web.svg" alt="GeoPandas" height="40"/></a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="Numpy" height="40"/></a>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://blog.scikit-learn.org/assets/images/scikit-learn-logo.png" alt="Sklearn" height="40"/></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" height="40"/></a>
