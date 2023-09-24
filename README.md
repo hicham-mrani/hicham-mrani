@@ -3,8 +3,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/hicham-mrani-69916b206/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="hicham-mrani" height="40"/></a>
 <a href="https://stackoverflow.com/users/21064666/hicham-mrani" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="hicham-mrani" height="40" /></a>
-<a href="https://www.w3profile.com/Shinaki" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/512px-W3Schools_logo.svg.png?20210601004220" alt="hicham-mrani" height="40" /></a>
-<!---<a href="https://www.hackerrank.com/shinaki" target="_blank"><img align="center" src="https://upload.vectorlogo.zone/logos/hackerrank/images/7f113bba-8436-47a5-9982-af0bc4c02a8e.svg" alt="hicham-mrani" height="40" /></a>--->
+<!--<a href="https://www.w3profile.com/Shinaki" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/512px-W3Schools_logo.svg.png?20210601004220" alt="hicham-mrani" height="40" /></a>-->
+<!--<a href="https://www.hackerrank.com/shinaki" target="_blank"><img align="center" src="https://upload.vectorlogo.zone/logos/hackerrank/images/7f113bba-8436-47a5-9982-af0bc4c02a8e.svg" alt="hicham-mrani" height="40" /></a>-->
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hicham-mrani&margin-w=15&margin-h=15&theme=onedark&no-frame=true" alt="hicham-mrani" /></a></p>
@@ -58,16 +58,16 @@
 <a href="https://mariadb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="mariadb" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" height="40"/></a>
  
-<a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="pyspark" height="40"/></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" height="40"/></a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="Microsoft Azure" height="40"/></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="gcp" height="40"/></a>
-<a href="https://autogis-site.readthedocs.io/en/latest/index.html" target="_blank" rel="noreferrer"><img src="https://autogis-site.readthedocs.io/en/latest/_static/autogis-logo_300x210px.svg" alt="GIS" height="40"/></a>
 </p>
 
 <h3 align="left">DevOps Automation Tools</h3>
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="40"/></a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Terraform" height="40"/></a>
 </p>
 
 <h3 align="left">Softwares</h3>
