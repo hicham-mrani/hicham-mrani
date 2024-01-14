@@ -39,6 +39,7 @@
  
 <a href="https://discordpy.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg" alt="discord.py" height="40"/></a>
 <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="40"/></a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="Flask" height="40"/></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" height="40"/></a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" height="40"/></a>
 </p>
