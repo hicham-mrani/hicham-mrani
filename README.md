@@ -9,11 +9,11 @@
 <h2>Technologies</h2>
 
 <p align="left">
- <h3 align="left">Main Language</h3>
+ <h3 align="left">Main Languages</h3>
  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" height="40"/></a>
  <a href="https://www.iro.umontreal.ca/~lesagee/bash.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" height="40"/></a>
   
- <h3 align="left">Secondary Language</h3>
+ <h3 align="left">Secondary Languages</h3>
  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="typescript" height="40"/></a>
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" height="40"/></a>
  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" height="40"/></a>
