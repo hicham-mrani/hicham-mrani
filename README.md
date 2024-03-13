@@ -10,7 +10,7 @@
 
 <p align="left">
  <h3 align="left">Main Languages</h3>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" height="40"/></a>
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="python" height="40"/></a>
  <a href="https://www.iro.umontreal.ca/~lesagee/bash.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" height="40"/></a>
   
  <h3 align="left">Secondary Languages</h3>
@@ -24,12 +24,26 @@
 <h3 align="left">DevOps</h3>
 <p align="left"> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="40"/></a>
+ <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" height="40"/></a>
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="40"/></a>
  <a href="https://kubernetes.io/fr/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" height="40"/></a>
  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="Ansible" height="40"/></a>
 </p>
 
-<h3 align="left">Libraries & APIs</h3>
+<h3 align="left">Database</h3>
+<p align="left"> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" height="40"/></a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql" height="40"/></a>
+</p>
+ 
+<h3 align="left">Cloud</h3>
+<p align="left"> 
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="Microsoft Azure" height="40"/></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" height="40"/></a>
+</p>
+
+<h3 align="left">More...</h3>
 <p align="left"> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/docs/_static/pandas.svg" alt="Pandas" height="40"/></a>
 <a href="https://geopandas.org/" target="_blank" rel="noreferrer"><img src="https://geopandas.org/en/stable/_static/geopandas_logo_web.svg" alt="GeoPandas" height="40"/></a>
@@ -43,19 +57,5 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" height="40"/></a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" height="40"/></a>
 </p>
-
-<h3 align="left">Data</h3>
-<p align="left"> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" height="40"/></a>
-<a href="https://mariadb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="mariadb" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" height="40"/></a>
- 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" height="40"/></a>
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="Microsoft Azure" height="40"/></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="gcp" height="40"/></a>
-</p>
-
 
 
