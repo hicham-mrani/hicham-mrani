@@ -23,11 +23,12 @@
 
 <h3 align="left">DevOps</h3>
 <p align="left"> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="40"/></a>
- <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" height="40"/></a>
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="40"/></a>
- <a href="https://kubernetes.io/fr/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" height="40"/></a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" height="40"/></a>
+ <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="Github" height="40"/></a>
+ <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" height="40"/></a>
+ <a href="https://kubernetes.io/fr/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="Kubernetes" height="40"/></a>
  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="Ansible" height="40"/></a>
+ <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Terraform" height="40"/></a>
 </p>
 
 <h3 align="left">Database</h3>
@@ -43,7 +44,7 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" height="40"/></a>
 </p>
 
-<h3 align="left">More...</h3>
+<h3 align="left">More Tech ...</h3>
 <p align="left"> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/docs/_static/pandas.svg" alt="Pandas" height="40"/></a>
 <a href="https://geopandas.org/" target="_blank" rel="noreferrer"><img src="https://geopandas.org/en/stable/_static/geopandas_logo_web.svg" alt="GeoPandas" height="40"/></a>
